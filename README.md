@@ -2,10 +2,10 @@
 
 <div>
 <a href="https://github.com/n1nh4/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=n1nh4&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=n1nh4&theme=radical" />
 </a>
 <a href="https://github.com/n1nh4/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n1nh4&layout=compact&theme=radical&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n1nh4&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 </div><br>
 
